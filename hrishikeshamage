@@ -1,0 +1,17 @@
+<!Doctype html>
+<head>
+   <title> hrishikesh info </title>
+</head>
+<body bgcolor="white" text="orange">
+	<h1 align="center"><i> Hrishikesh Information</i></h1>
+     	<ul>
+ 		<li> Name = Hrishikesh Tanaji Amage. </li><hr>
+		<li> College = R.K.Junior College,Gadhinglaj.</li><hr>
+		<li> Class = 12th Science </li><hr>
+		<li> State = Maharastra </li><hr>
+		<li> Dist. = Kolhapur </li><hr>
+		<li> Tal. = Gadhinglaj </li><hr>
+		<li> Village = Nangnur </li><hr color=green><hr color=green>
+	</ul>
+</body>
+</html>
